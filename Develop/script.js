@@ -1,5 +1,15 @@
 // Assignment code here
 
+// Variables 
+
+var caseLower = 'abcdefghijklmnopqrstuvwxyz'
+var caseUpper = 'ABCDEFGHIJKLNMOPQRSTUVWXYZ'
+var symSpecial ='!@#$%^&*()=+-*/'
+var number = '0123456789'
+
+//function
+
+function generate()
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
